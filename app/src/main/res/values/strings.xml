@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MyFinancr</string>
+    <string name="thetodo">TODO1</string>
+    <string name="save_money_with_every_swipe">Save money with every swipe.</string>
+    <string name="welcome">Welcome.</string>
+    <string name="grow_your_money_with_every_swipe">Grow your money with every swipe.</string>
+    <string name="email">Email:</string>
+    <string name="password">Password:</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="sign_in">Sign in</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="button">Button</string>
+    <string name="title_activity_new_user">NewUser</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="name">Name:</string>
+    <string name="e_mail">E-mail</string>
+    <string name="confirm_password">Confirm Password:</string>
+    <string name="i_agree_to_the_terms_data_policy_and_cookies_policy">I agree to the Terms, Data Policy and Cookies Policy.</string>
+    <string name="new_sign_up">Sign Up.</string>
+    <string name="log_in">Log In</string>
+    <string name="login_e_mail">E-mail</string>
+</resources>
